@@ -1,1 +1,1 @@
-# Iamge-Compressor-using-Python
+PILLOW installation required.
